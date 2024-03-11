@@ -6,7 +6,6 @@
   - LinkedIn: Javeria Ashab https://www.linkedin.com/in/javeria-ashab-072523295
   - Email: javeriaashab2005@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
 
 <!---
 JaveriaAshab/JaveriaAshab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
