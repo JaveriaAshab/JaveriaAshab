@@ -4,7 +4,7 @@
 - 💻 I’m looking to collaborate on open source projects or anything related to Web Development
 - 📫 How to reach me
   - LinkedIn: Javeria Ashab https://www.linkedin.com/in/javeria-ashab-072523295
-  - Email: javeriaashab2005@gmail.com
+  - Email: javeriaashab11@gmail.com
 - 😀 Pronouns: She/her
 
 <!---
